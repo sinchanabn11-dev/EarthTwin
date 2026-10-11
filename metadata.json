@@ -1,0 +1,6 @@
+{
+  "name": "EarthTwin — AI Digital Twin for Outdoor Ecosystems",
+  "description": "AI-powered digital twin system for outdoor ecosystems, featuring environmental telemetry, health scoring, risk analysis, What-If simulation engine, alerts, and digital twin assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
